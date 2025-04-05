@@ -14,7 +14,9 @@ function calculate(){
         return display.value = "go away"
     } else if (display.value === "2x3") {
          return display.value = "U r annoying"
-    } 
+    } else if (display.value === "10+1") {
+        return display.value = "Onety-One"
+   }
     else {
     try {
         display.value = eval(display.value)
