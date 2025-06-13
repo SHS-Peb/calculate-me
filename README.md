@@ -1,8 +1,8 @@
-# 🧮 Calculate Me
+# Calculate Me
 
 **Calculate Me** is a simple calculator web app with a bit of attitude. It handles basic math operations — and if you input something *specific*, it'll talk back. 👀
 
-## ✨ Features
+## Features
 
 - Clickable number and operator buttons
 - Input is displayed in a read-only screen
@@ -10,7 +10,15 @@
 - Handles basic math using `eval()` (with a warning if you mess up)
 Also, invalid input gives you a sassy error: *"R u dumb?"*
 
-## 🎨 Tech Used
+## Screenshots
+
+### Main Page
+![Main Page Screenshot](images/homepage.PNG)
+
+### Easter Egg Peak
+![Easter Egg Screenshot](images/easteregg.PNG)
+
+## Tech Used
 
 - HTML for structure
 - CSS for styling (see `style.css`)
